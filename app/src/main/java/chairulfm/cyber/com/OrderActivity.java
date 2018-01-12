@@ -1,4 +1,4 @@
-package com.aderayanbima.droidcafe;
+package chairulfm.cyber.com;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.Toast;
+
+import com.aderayanbima.droidcafe.R;
 
 public class OrderActivity extends AppCompatActivity {
 

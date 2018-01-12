@@ -1,4 +1,4 @@
-package com.aderayanbima.droidcafe;
+package chairulfm.cyber.com;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

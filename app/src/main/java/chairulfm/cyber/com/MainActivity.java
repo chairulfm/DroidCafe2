@@ -1,4 +1,4 @@
-package com.aderayanbima.droidcafe;
+package chairulfm.cyber.com;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
+
+import com.aderayanbima.droidcafe.R;
 
 public class MainActivity extends AppCompatActivity {
 
