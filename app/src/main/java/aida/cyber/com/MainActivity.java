@@ -1,4 +1,4 @@
-package chairulfm.cyber.com;
+package aida.cyber.com;
 
 import android.content.Intent;
 import android.os.Bundle;

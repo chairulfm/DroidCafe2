@@ -1,4 +1,4 @@
-package chairulfm.cyber.com;
+package aida.cyber.com;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

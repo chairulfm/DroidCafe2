@@ -1,4 +1,4 @@
-package chairulfm.cyber.com;
+package aida.cyber.com;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

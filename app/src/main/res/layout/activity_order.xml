@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="chairulfm.cyber.com.OrderActivity">
+    tools:context="aida.cyber.com.OrderActivity">
 
     <TextView
         android:id="@+id/order_intro_text"
